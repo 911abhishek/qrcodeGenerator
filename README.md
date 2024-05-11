@@ -7,4 +7,5 @@ step2: Choose the link type
 
 heres,the qrcode of the given link
 ![qrcode](https://github.com/911abhishek/qrcodeGenerator/assets/138745734/bf01571f-5106-4b87-b6e4-070d484e7eb4)
+
 try Scanning the qrcode
